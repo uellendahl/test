@@ -2,6 +2,6 @@
 trash doku
 win edit ++
 edit atom !!
-now ubuntu editingeditingeditingediting
-now mobilemobilemobilemobile
+now ubuntu editing
+now mobile
 
